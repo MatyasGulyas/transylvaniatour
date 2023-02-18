@@ -46,20 +46,17 @@ h3 {
     margin: 0.5rem 0;
 }
 
-.recommendation {
 
-    a {
-        text-decoration: none;
-        color: black;
-        font-weight: bold;
-        margin: 20px;
-    }
-
-    a:hover {
-        text-decoration: underline;
-    }
-
+a {
+    text-decoration: none;
+    color: rgb(85, 85, 85);
+    font-weight: bold;
 }
+
+a:hover {
+    text-decoration: underline;
+}
+
 
 .grid-wrapper {
 

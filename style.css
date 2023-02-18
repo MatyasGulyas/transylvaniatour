@@ -34,12 +34,12 @@ h3 {
   font-weight: 500;
   margin: 0.5rem 0; }
 
-.recommendation a {
+a {
   text-decoration: none;
-  color: black;
-  font-weight: bold;
-  margin: 20px; }
-.recommendation a:hover {
+  color: #555555;
+  font-weight: bold; }
+
+a:hover {
   text-decoration: underline; }
 
 @media screen and (min-width: 600px) {
